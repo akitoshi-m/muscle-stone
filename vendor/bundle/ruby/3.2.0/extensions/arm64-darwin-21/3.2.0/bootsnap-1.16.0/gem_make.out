@@ -1,0 +1,18 @@
+current directory: /Users/akitoshi/workspace/muscle-stone/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/akitoshi/.anyenv/envs/rbenv/versions/3.2.0/bin/ruby -I /Users/akitoshi/.anyenv/envs/rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/akitoshi/workspace/muscle-stone/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230204-91120-3lb4au sitelibdir\=./.gem.20230204-91120-3lb4au clean
+
+current directory: /Users/akitoshi/workspace/muscle-stone/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230204-91120-3lb4au sitelibdir\=./.gem.20230204-91120-3lb4au
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/akitoshi/workspace/muscle-stone/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230204-91120-3lb4au sitelibdir\=./.gem.20230204-91120-3lb4au install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230204-91120-3lb4au/bootsnap
+
+current directory: /Users/akitoshi/workspace/muscle-stone/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230204-91120-3lb4au sitelibdir\=./.gem.20230204-91120-3lb4au clean
